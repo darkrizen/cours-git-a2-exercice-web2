@@ -10,12 +10,12 @@
 			<?php } ?>
 				<h1><i class="fa fa-soundcloud"></i> Connectez-vous !</h1>
 				<form method="POST" action="login.php">
-					<div class="form-input">
+					<div class="name">
 						<span class="email">
 							<input type="text" placeholder="Email">
 						</span>
 					</div>
-					<div class="form-input">
+					<div class="name">
 						<span class="password">
 							<input type="password" placeholder="Password">
 						</span>
